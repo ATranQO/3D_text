@@ -33,7 +33,7 @@ fontLoader.load("/fonts/helvetiker_regular.typeface.json", (font) => {
   const material = new THREE.MeshMatcapMaterial({ matcap: matcapTexture });
 
   // Text
-  const textGeometry = new TextGeometry("Fak ju Hemerko", {
+  const textGeometry = new TextGeometry("Hello World", {
     font: font,
     size: 0.5,
     depth: 0.2,
