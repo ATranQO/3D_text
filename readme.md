@@ -14,6 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-
-
-https://3d-eight-psi.vercel.app/
+https://3dtexttran.netlify.app/
